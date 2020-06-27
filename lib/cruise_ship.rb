@@ -16,3 +16,8 @@ def select_winner(passengers)
 
   return winner
 end
+
+def age_appropriate_birthday(passengers)
+
+end
+
